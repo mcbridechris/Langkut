@@ -1,0 +1,505 @@
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.langkut{
+    width: 130px;
+    height: 36px;
+
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
+.form {
+    width: 100%;
+    margin-bottom: 70px;
+}
+
+.financial-platform {
+    color: orange;
+}
+
+.digital-bank {
+    font-size: 65px;
+}
+
+.easier {
+    color: grey;
+    line-height: 26px; 
+}
+
+.payment {
+    width: 400px;
+    margin-top: 0px;
+}
+
+.big-phone {
+    
+    max-width: 450px;
+}
+
+.hamburger-view {
+   
+    text-align: left;
+
+
+}
+
+.hero{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.left-hero {
+    width: 48%;
+    
+    
+}
+
+.whose-product {
+    color: rgb(255, 123, 0);
+    font-size: 15px;
+}
+
+.different-products {
+    font-size: 60px;
+    margin-bottom: 45px;
+}
+
+.qr-code {
+    width: 150px;
+    
+}
+
+.comfortable-transaction {
+    color: grey;
+}
+
+.features {
+    width: 175px;
+}
+
+.helpful-features {
+    color: grey;
+}
+
+.easy-transaction {
+    font-size: 25px;
+    
+
+}
+
+.card-title {
+    font-size: 22px;
+}
+
+.coin-platform {
+    font-size: 25px;
+}
+
+.crypto-pic {
+    width: 175px;
+
+}
+
+.crypto {
+    color: grey;
+    font-size: 16px;
+     
+}
+
+.product-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.card-item {
+    width: 32%;
+    
+}
+
+
+.background-card {
+    background-color: #e7edf4;
+    width: 100%;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-subtext {
+    color: grey;
+    font-size: 16px;
+    line-height: 25px;
+    
+}
+
+
+.third-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 140px;
+
+}
+
+
+.accordion {
+    width: 500px;
+    margin-left: 20px;
+}
+
+.my-control {
+    width: 585px;
+    margin-right: 25px;
+}
+
+.various-finance {
+    font-size: 60px;
+    margin-bottom: 58px;
+}
+
+.fourth-section {
+    margin-top: 105px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+  
+}
+
+.picture-phone {
+    width: 600px;
+}
+
+.mini-text {
+    color: orange;
+}
+
+.langkut-available {
+    font-size: 60px;
+    margin-bottom: 30px;
+    
+}
+
+.langkut-subtext {
+    color: grey;
+}
+
+.left-data {
+    width: 50%;
+
+}
+
+.right-data {
+    width: 50%;
+    margin-top: 95px;
+    margin-left: 75px;
+}
+
+.stores {
+    align-items: start;
+}
+
+
+
+.google-button {
+    width: 250px;
+}
+
+.apple-button {
+    width: 250px;
+
+
+}
+
+.fifth-section{
+
+    
+}
+
+.our-testimonials {
+    color: orange;
+    text-align: center;
+    padding-top: 65px;
+    padding-bottom: 25px;
+
+
+    
+}
+
+.testimonials {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.all-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 95px;
+}
+
+.google-logo {
+    width: 130px;
+    margin-bottom: 9px;
+    margin-top: 15px;
+}
+
+.zoom-logo {
+    width: 130px;
+    margin-bottom: 23px;
+    margin-top: 15px;
+}
+
+.slack-logo {
+    width: 130px;
+    
+}
+
+.card-text {
+    color: grey;
+}
+
+.name{
+    font-size: 15px;
+}
+
+.name-subtext {
+    color: grey;
+}
+
+.full-people {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.person-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    margin-right: 10px;
+    object-fit: cover;
+    
+
+}
+
+.footer {
+    background-color: #040c1e;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 100px;
+
+    
+}
+
+.footer-subtext {
+    color: #77839c;
+}
+
+.left-footer {
+    margin-right: 200px;
+}
+
+
+
+.right-footer {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+
+    
+    
+
+}
+
+.arrow-picture {
+    width: 20px;
+}
+
+
+
+
+.foot-subtext {
+    margin: 30px;
+    color: #77839c;
+    font-weight: 100;
+
+    
+}
+
+.top-subtext {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 30px;
+    
+}
+
+.foot-subtext > h4 {
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+
+
+
+.langkut {
+    margin-bottom: 25px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .right-footer {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+
+@media only screen and (max-width: 992px) {
+    .navbar-collapse {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin: 0px;
+        padding: 0px;
+
+    }
+    .list-items {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: left;
+        margin: 0px;
+    }
+    .register-button {
+        padding: 0;
+        margin-bottom: 10px;
+    }
+    .login-button {
+        padding: 0;
+    }
+    .hero {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: unset;
+
+    }
+    .left-hero {
+        width: 100%;
+    }
+    
+    .payment {
+        margin-bottom: 35px; 
+
+    }
+
+    .various-finance {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    
+
+    .product-cards {
+        display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    }
+
+    .card-item {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .third-section {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        margin-top: 40px;
+        
+
+    }
+
+    .my-control {
+        margin-bottom: 25px;
+        width: 100%;
+    }
+
+    .fourth-section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .picture-phone {
+        width: 100%;
+    }
+
+
+
+    .right-data {
+        width: 100%;
+    }
+
+    .left-data {
+        width: 100%;
+    }
+
+    .all-cards {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card {
+        width: 100% !important;
+        margin-bottom: 30px;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+        padding: 50px;
+    }
+
+    .left-footer{
+        margin: auto;
+        text-align: center;
+    }
+
+    .stores {
+        margin: -20px;
+    margin-top: 10px;
+}
+    }
+
+
+
+
+
+
+
+        
+    
+
+
+  
+
+    
+    
